@@ -6,10 +6,12 @@ export function Home() {
   
   return (
     <Container>
+
       <div className="page">
          <div className="cal-bec">
-            <h1><span>L</span>EANDRO MELLO</h1>
-            <p>Um lugar para guardar todos os meus <br></br>desafios do Explorer, da <br></br> <a href="https://www.rocketseat.com.br/explorer" target="_blank">Rocketseat.</a></p>
+            <img src="logo.png" alt="logo" />
+            <p>Um lugar para guardar todos os meus <br></br>desafios do Explorer, da <br></br> 
+            <a href="https://www.rocketseat.com.br/explorer" target="_blank">Rocketseat.</a></p>
           </div>
 
         <div className="last-proj">
@@ -28,7 +30,7 @@ export function Home() {
         </div>
 
         <footer>
-          <p>FEITO POR <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/" target="_blank">LEANDRO MELLO</a></p>
+          <p>Feito por <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/" target="_blank">Leandro Mello</a></p>
         </footer>
         
      </div>

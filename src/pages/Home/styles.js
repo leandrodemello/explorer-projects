@@ -10,20 +10,7 @@ export const Container = styled.div`
 }
 
 .cal-bec {
-   > h1 {
-      text-align: end;
-      margin-top: 40px;
-      font-size: 50px;
-      font-weight: 600;
-      
-      width: 300px;
-      border-bottom-style: solid;
-      border-bottom-width: 3px;
-      border-color: #1eebde;
-      transition: 1s;
-      
-   }
-
+   
    > p {
       > a {
          color: #af7ce3;
@@ -38,9 +25,14 @@ export const Container = styled.div`
    > p {
       text-align: center;
       font-size: 16px;
-      margin-top: 10px;
-      margin-bottom: 20px
+      margin-bottom: 10px
       
+   }
+
+   > img {
+      width: 100%;
+      height: 250px;
+
    }
    
 }
@@ -51,8 +43,8 @@ export const Container = styled.div`
    margin-top: 10px;
 
    border-bottom-style: solid;
-   border-bottom-width: 2px;
-   border-color: #1eebde;
+   border-bottom-width: 1px;
+   border-color: #03FA6E;
    
      > p {
          font-size: 16px;
@@ -79,7 +71,7 @@ footer {
 
    > p {
       > a {
-         color: #af7ce3;
+         color: #03FA6E;
       }
       }
 
