@@ -13,7 +13,7 @@ export const Container = styled.div`
    
    > p {
       > a {
-         color: #af7ce3;
+         color: #03FA6E;
       }
    }
 
@@ -41,6 +41,7 @@ export const Container = styled.div`
    display: flex;
    list-style: none;
    margin-top: 10px;
+   width: 100%;
 
    border-bottom-style: solid;
    border-bottom-width: 1px;

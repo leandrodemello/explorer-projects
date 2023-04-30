@@ -19,7 +19,7 @@ min-width: 445px;
 
       border-bottom-style: solid;
       border-bottom-width: 2px;
-      border-color: #1eebde;
+      border-color: #03FA6E;
 
       span {
       font-size: 20px;
@@ -50,7 +50,7 @@ min-width: 445px;
       
       border: none;
       border-radius: 5px;
-      background-color: #1eebde;
+      background-color: #03FA6E;
       cursor: pointer;
    }
 
@@ -62,7 +62,7 @@ min-width: 445px;
    width: 58px;
    border-bottom-style: solid;
    border-bottom-width: 1px;
-   border-color: #1eebde;
+   border-color: #03FA6E;
 }
 
 @media (min-width: 800px) {

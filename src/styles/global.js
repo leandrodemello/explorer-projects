@@ -16,7 +16,8 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Akshar', sans-serif;
     text-decoration: none;
     color: #e1ebf1;
-    background: #282A36;
+    background: rgb(38,137,171);
+    background: radial-gradient(circle, rgba(38,137,171,1) 42%, rgba(99,207,157,1) 100%);  
 
  }
 
