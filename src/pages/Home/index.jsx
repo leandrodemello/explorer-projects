@@ -10,8 +10,8 @@ export function Home() {
       <div className="page">
          <div className="cal-bec">
             <img src="logo.png" alt="logo" />
-            <p>Um lugar para guardar todos os meus <br></br>desafios do Explorer, da <br></br> 
-            <a href="https://www.rocketseat.com.br/explorer" target="_blank">Rocketseat.</a></p>
+            <p>Um lugar para guardar todos os meus <br></br>desafios do curso Explorer da <br></br> 
+            <a href="https://www.rocketseat.com.br/explorer" target="_blank" rel="noreferrer">Rocketseat.</a></p>
           </div>
 
         <div className="last-proj">
@@ -30,7 +30,7 @@ export function Home() {
         </div>
 
         <footer>
-          <p>Feito por <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/" target="_blank">Leandro Mello</a></p>
+          <p>Feito por <a href="https://leandromello.dev/" target="_blank" rel="noreferrer">LeandroDev</a></p>
         </footer>
         
      </div>

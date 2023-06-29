@@ -13,8 +13,14 @@ export function Projeto9() {
           <h1><span>J</span>OGO <span>D</span>A <span>A</span>DIVINHAÇÃO</h1>
             <p>Injeção de dependências e manipulação da DOM</p>
             <img src="jogo-adived.gif" alt="móveis planejados" />
-            <a href="https://jogo-da-adivinhcao.netlify.app/" target="_blank"> 
-            <button><p>Ir para o projeto</p></button> </a> 
+
+        </div>
+
+        <div className="buttons">
+             <a href="https://jogo-da-adivinhcao.netlify.app/" target="_blank" rel="noreferrer"> 
+                <button><p>Deploy</p></button> </a>
+            <a href="https://github.com/leandrodemello/JogoDaAdivinhacao" target="_blank" rel="noreferrer"> 
+                <button><p>GitHub</p></button> </a> 
         </div>
  
         <div className="return">

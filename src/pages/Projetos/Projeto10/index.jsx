@@ -13,8 +13,14 @@ export function Projeto10() {
           <h1><span>R</span>OCKETNOTES </h1>
             <p>Uma aplicação para guardar links e anotações | React & Styled-Components | Node & SQlite</p>
             <img src="rocket.gif" alt="móveis planejados" />
-            <a href="https://anotacoesfaceis.netlify.app/" target="_blank"> 
-            <button><p>Ir para o projeto</p></button> </a> 
+
+        </div>
+
+        <div className="buttons">
+             <a href="https://anotacoesfaceis.netlify.app/" target="_blank" rel="noreferrer"> 
+                <button><p>Deploy</p></button> </a>
+            <a href="https://github.com/leandrodemello/rocketnotes_frontend" target="_blank" rel="noreferrer"> 
+                <button><p>GitHub</p></button> </a> 
         </div>
  
         <div className="return">

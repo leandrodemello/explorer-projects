@@ -39,26 +39,30 @@ min-width: 445px;
       transition: 1s;
    }
 
+}
+
+.buttons {
+   display: flex;
+   justify-content: center;
+   gap: 5px;
+
    button {
       height: 30px;
-      width: 115px;
+      width: 70px;
       margin-top: 10px;
 
       color: black;
       font-weight: 700;
-
       
       border: none;
       border-radius: 5px;
       background-color: #03FA6E;
       cursor: pointer;
    }
-
 }
 
 .return {
    font-size: 14px;
-
    width: 58px;
    border-bottom-style: solid;
    border-bottom-width: 1px;

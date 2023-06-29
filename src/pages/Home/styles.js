@@ -32,9 +32,11 @@ export const Container = styled.div`
    > img {
       width: 100%;
       height: 250px;
+      margin-top: -80px;
+      margin-bottom: 10px;
 
    }
-   
+
 }
 
 .last-proj ul li {
@@ -65,10 +67,9 @@ footer {
     flex-direction: row;
     align-items: center;
     font-size: 11px;
-    margin: auto;
-    bottom: 0;
     padding: 10px;
-    position: fixed;
+
+    margin-top: 90px;
 
    > p {
       > a {

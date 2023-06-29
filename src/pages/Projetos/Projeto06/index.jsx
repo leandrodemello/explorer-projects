@@ -13,8 +13,14 @@ export function Projeto6() {
           <h1><span>F</span>OCUS <span>T</span>IMER</h1>
             <p>Um timer no estilo pomodoro | JavaScript e DOM</p>
             <img src="pomodoro.gif" alt="móveis planejados" />
-            <a href="https://timerpomodoro2023.netlify.app/" target="_blank"> 
-            <button><p>Ir para o projeto</p></button> </a> 
+
+        </div>
+
+        <div className="buttons">
+             <a href="https://timerpomodoro2023.netlify.app/" target="_blank" rel="noreferrer"> 
+                <button><p>Deploy</p></button> </a>
+            <a href="https://github.com/leandrodemello/timer-pomodoro" target="_blank" rel="noreferrer"> 
+                <button><p>GitHub</p></button> </a> 
         </div>
  
         <div className="return">

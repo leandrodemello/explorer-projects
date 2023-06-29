@@ -13,8 +13,14 @@ export function Projeto5() {
           <h1><span>S</span>PACE <span>C</span>REAM</h1>
             <p>Display Grid, responsividade e keyframes.</p>
             <img src="space-crem.gif" alt="móveis planejados" />
-            <a href="https://codepen.io/leandrodemello/pen/eYVbpPK" target="_blank"> 
-            <button><p>Ir para o projeto</p></button> </a> 
+
+        </div>
+
+        <div className="buttons">
+             <a href="https://codepen.io/leandrodemello/pen/eYVbpPK" target="_blank" rel="noreferrer"> 
+                <button><p>Deploy</p></button> </a>
+            <a href="https://github.com/leandrodemello/SpaceCream" target="_blank" rel="noreferrer"> 
+                <button><p>GitHub</p></button> </a> 
         </div>
  
         <div className="return">

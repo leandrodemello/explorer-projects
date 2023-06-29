@@ -13,8 +13,14 @@ export function Projeto8() {
           <h1><span>S</span>PA <span>U</span>NIVERSE</h1>
             <p>Uma SPA construída com Javascript puro</p>
             <img src="144814.jpg" alt="móveis planejados" />
-            <a href="https://spa-universe-ro.netlify.app" target="_blank"> 
-            <button><p>Ir para o projeto</p></button> </a> 
+
+        </div>
+
+        <div className="buttons">
+             <a href="https://spa-universe-ro.netlify.app" target="_blank" rel="noreferrer"> 
+                <button><p>Deploy</p></button> </a>
+            <a href="https://github.com/leandrodemello/SpaceUniverse" target="_blank" rel="noreferrer"> 
+                <button><p>GitHub</p></button> </a> 
         </div>
  
         <div className="return">
